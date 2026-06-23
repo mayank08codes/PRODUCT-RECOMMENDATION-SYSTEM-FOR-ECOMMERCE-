@@ -11,8 +11,7 @@ This project analyzes customer behavior, product engagement, and purchasing patt
 E-commerce companies need to understand customer preferences and product performance to improve recommendation accuracy and customer engagement.
 
 ## Project Workflow
-
-
+![workflow](workflow.png)
 
 
 ## Objectives

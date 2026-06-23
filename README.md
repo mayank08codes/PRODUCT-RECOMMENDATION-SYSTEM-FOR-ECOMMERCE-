@@ -10,34 +10,10 @@ This project analyzes customer behavior, product engagement, and purchasing patt
 
 E-commerce companies need to understand customer preferences and product performance to improve recommendation accuracy and customer engagement.
 
-##Project Architecture Diagram
+## Project Workflow
 
-Kaggle Dataset
-      ↓
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-Data Validation
-      ↓
-Data Transformation
-      ↓
-Feature Engineering
-      ↓
-EDA
-      ↓
-KPI Development
-      ↓
-Data Visualization
-      ↓
-Business Insights
-      ↓
-Business Recommendations
 
-MySQL:
-• Data Extraction
-• Data Processing
-• Data Analysis Support
+
 
 ## Objectives
 - Analyze customer engagement

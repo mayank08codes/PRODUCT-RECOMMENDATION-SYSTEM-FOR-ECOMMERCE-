@@ -1,4 +1,7 @@
 # Customer Intelligence Dashboard for E-Commerce Product Recommendations
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 ## Project Overview
 This project analyzes customer behavior, product engagement, and purchasing patterns to improve product recommendation strategies.

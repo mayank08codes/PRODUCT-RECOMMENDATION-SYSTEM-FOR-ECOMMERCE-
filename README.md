@@ -6,6 +6,38 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ## Project Overview
 This project analyzes customer behavior, product engagement, and purchasing patterns to improve product recommendation strategies.
+## Business Problem
+
+E-commerce companies need to understand customer preferences and product performance to improve recommendation accuracy and customer engagement.
+
+##Project Architecture Diagram
+
+Kaggle Dataset
+      ↓
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Data Validation
+      ↓
+Data Transformation
+      ↓
+Feature Engineering
+      ↓
+EDA
+      ↓
+KPI Development
+      ↓
+Data Visualization
+      ↓
+Business Insights
+      ↓
+Business Recommendations
+
+MySQL:
+• Data Extraction
+• Data Processing
+• Data Analysis Support
 
 ## Objectives
 - Analyze customer engagement
@@ -33,11 +65,17 @@ This project analyzes customer behavior, product engagement, and purchasing patt
 3. Male customers purchase more similar products.
 4. High-rated products receive more engagement.
 
+## Recommendations
+
+- Increase inventory during winter season.
+- Promote highly rated products.
+- Focus marketing on high-engagement regions.
+
 
 
 ## Files Included
-- Dataset
+- Dataset(excel file)
 - Power BI Dashboard (.pbix)
-- SQL Queries
-- Documentation
+- SQL Queries(MY SQL WORKBENCH)
+- Jupyter notebook(FOR DATA VISUALIZATION)
 
